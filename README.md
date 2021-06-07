@@ -1,0 +1,2 @@
+# Smart Home Application
+> A smart home is a residence that enables remote controlling from devices that use Wi-Fi connectivity of appliances and systems, such as lighting and heating. This smart home application supports multiple appliances with Wi-Fi support, including household, environmental control and media devices. It will act a universal remote for all sorts of appliances and present a completely automated home.
