@@ -29,4 +29,5 @@ In order to run this project, simply install the NetBeans IDE software and Java 
 
 ## Usage
 After running the project, a menu like the following will be displayed in which the user can select the appropriate option and proceed to use the application.
-![Menu](./img/screenshot.png)
+
+![Screenshot](https://user-images.githubusercontent.com/74754785/121253399-7c53a800-c8c2-11eb-973e-c372cc2f401a.PNG)
