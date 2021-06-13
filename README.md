@@ -25,7 +25,9 @@ A smart home opens numerous windows to high-tech functionality and extreme level
 - User can view all the avaiable devices.
 
 ## Setup
-In order to run this project, simply install the NetBeans IDE software and Java onto your device. Launch NetBeans and open the project from the folder where the project has been downloaded.
+For compilation and running of the code, use the following links to download Java and NetBeans IDE softwares:
+- https://www.java.com/download/ie_manual.jsp
+- https://netbeans-ide.informer.com/8.2/
 
 ## Usage
 After running the project, a menu like the following will be displayed in which the user can select the appropriate option and proceed to use the application.
